@@ -1,7 +1,7 @@
 # PSDL-mini-project
 
 
-project simulation video:<href="https://drive.google.com/drive/folders/1WQpdqYoe8_y9eaye8B0Mnek5WdKyyFhz">
+project simulation video:https://drive.google.com/drive/folders/1WQpdqYoe8_y9eaye8B0Mnek5WdKyyFhz
 
 
 Problem Statement:
